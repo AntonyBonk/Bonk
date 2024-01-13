@@ -1,0 +1,12 @@
+html, 
+body {
+    height: 100%;
+}
+
+
+#matter-container {
+    width: 100%; /* Or set a specific width */
+    height: 100%; /* Or set a specific height */
+    position: relative; /* Or use another position type if needed */
+    /* Add other necessary styles */
+  }
